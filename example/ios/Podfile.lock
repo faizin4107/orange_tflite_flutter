@@ -1,6 +1,6 @@
 PODS:
   - Flutter (1.0.0)
-  - orange_tflite_flutter (0.0.1):
+  - orange_tflite_flutter (0.0.2):
     - Flutter
   - path_provider_foundation (0.0.1):
     - Flutter
@@ -21,7 +21,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
-  orange_tflite_flutter: 51cdfe94f8583ce336b67e3c8c5defdaa8a1cb7d
+  orange_tflite_flutter: 9c04116bc18f2844390fd99048c7d6c3cd111449
   path_provider_foundation: c68054786f1b4f3343858c1e1d0caaded73f0be9
 
 PODFILE CHECKSUM: 4e8f8b2be68aeea4c0d5beb6ff1e79fface1d048
